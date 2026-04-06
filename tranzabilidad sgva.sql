@@ -1,7 +1,7 @@
-CREATE DATABASE tanzabilidad_sgva;
+CREATE DATABASE tranzabilidad_sgva;
 USE tanzabilidad_sgva;
 
-CREATE table Tanzabilidad (
+CREATE table Tranzabilidad (
 id_Tranzabilidad int primary key not null auto_increment,
 Codigo_Empresa varchar(100) not null,
 telefono varchar(100) not null,
